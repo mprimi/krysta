@@ -1,0 +1,27 @@
+# Site settings
+url: "https://www.krysta.games"
+name: 'Krysta Yang'
+subname: 'Media Strategist & Content Creator'
+
+# Meta
+title: "Krysta Yang"
+description: "Homepage of Krysta Yang"
+
+# Links
+linkedin_username: krystayang
+twitter: breath0air
+instagram: breath0air
+
+# Images
+avatar: yes
+avatar_img_path: "imgs/avatar.jpg"
+front_img: yes
+front_img_path: "imgs/background.png"
+favicon_img: yes
+favicon_img_path: "imgs/favicon.png"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+exclude: ["LICENSE", README.md]
